@@ -1,0 +1,5 @@
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWork\src\Domain.Core\bin\Debug\netcoreapp2.2\Domain.Core.deps.json
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWork\src\Domain.Core\bin\Debug\netcoreapp2.2\Domain.Core.dll
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWork\src\Domain.Core\obj\Debug\netcoreapp2.2\Domain.Core.csproj.CoreCompileInputs.cache
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWork\src\Domain.Core\obj\Debug\netcoreapp2.2\Domain.Core.AssemblyInfoInputs.cache
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWork\src\Domain.Core\obj\Debug\netcoreapp2.2\Domain.Core.AssemblyInfo.cs

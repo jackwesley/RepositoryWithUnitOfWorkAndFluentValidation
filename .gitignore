@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RepositoryWithUnitOfWork/.vs/RepositoryWithUnitOfWork/DesignTimeBuild/.dtbcache
+/RepositoryWithUnitOfWork/.vs/RepositoryWithUnitOfWork/v16/Server/sqlite3
+/RepositoryWithUnitOfWork/.vs/RepositoryWithUnitOfWork/v16
+/RepositoryWithUnitOfWork/.vs/slnx.sqlite
+*.cache
