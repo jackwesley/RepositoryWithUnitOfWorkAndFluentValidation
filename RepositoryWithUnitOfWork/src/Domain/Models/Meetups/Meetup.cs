@@ -1,13 +1,14 @@
 ﻿using Domain.Core.Models;
+using Domain.Models.Organizers;
 using FluentValidation;
 using System;
 using System.Collections.Generic;
 
-namespace Domain.Models
+namespace Domain.Models.Meetups
 {
-    public class Event : Entity<Event>
+    public class Meetup : Entity<Meetup>
     {
-        public Event(string name,
+        public Meetup(string name,
                     string description,
                     DateTime dateStart,
                     DateTime dateEnd,

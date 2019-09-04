@@ -3,3 +3,15 @@ G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreap
 G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
 G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
 G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\bin\Debug\netcoreapp2.2\Domain.Core.dll
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\bin\Debug\netcoreapp2.2\Domain.Core.pdb
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CopyComplete
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+G:\JACK\C# ASP NET Study\RepositoryWithUnitOfWorkAndFluentValidation\RepositoryWithUnitOfWork\src\Domain\obj\Debug\netcoreapp2.2\Domain.pdb

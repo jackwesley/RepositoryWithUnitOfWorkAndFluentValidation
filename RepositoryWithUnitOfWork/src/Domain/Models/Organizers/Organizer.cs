@@ -1,8 +1,8 @@
 ﻿using Domain.Core.Models;
 
-namespace Domain.Models
+namespace Domain.Models.Organizers
 {
-    public class Category : Entity<Category>
+    public class Organizer : Entity<Organizer>
     {
         public override bool IsValid()
         {

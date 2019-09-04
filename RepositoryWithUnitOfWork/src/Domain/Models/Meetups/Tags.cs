@@ -1,8 +1,8 @@
 ﻿using Domain.Core.Models;
 
-namespace Domain.Models
+namespace Domain.Models.Meetups
 {
-    public class Adress : Entity<Adress>
+    public class Tags : Entity<Tags>
     {
         public override bool IsValid()
         {

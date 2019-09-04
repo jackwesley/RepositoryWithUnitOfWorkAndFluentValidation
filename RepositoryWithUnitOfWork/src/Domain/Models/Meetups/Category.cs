@@ -1,8 +1,8 @@
 ﻿using Domain.Core.Models;
 
-namespace Domain.Models
+namespace Domain.Models.Meetups
 {
-    public class Tags : Entity<Tags>
+    public class Category : Entity<Category>
     {
         public override bool IsValid()
         {
