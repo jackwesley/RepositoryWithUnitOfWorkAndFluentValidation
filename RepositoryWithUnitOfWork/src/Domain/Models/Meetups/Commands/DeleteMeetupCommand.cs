@@ -1,7 +1,5 @@
-﻿using Domain.Core.Commands;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System;
+
 
 namespace Domain.Models.Meetups.Commands
 {

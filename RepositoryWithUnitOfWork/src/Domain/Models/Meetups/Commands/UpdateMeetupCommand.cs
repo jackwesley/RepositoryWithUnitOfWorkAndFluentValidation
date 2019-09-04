@@ -7,6 +7,7 @@ namespace Domain.Models.Meetups.Commands
     public class UpdateMeetupCommand : BaseMeetupCommand
     {
         public UpdateMeetupCommand(
+                     Guid id,
                      string name,
                      string description,
                      DateTime dateStart,
@@ -14,7 +15,7 @@ namespace Domain.Models.Meetups.Commands
                      bool free,
                      decimal price)
         {
-
+            Id = id;
             Name = name;
             Description = description;
             DateStart = dateStart;

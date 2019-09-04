@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Domain.Models.Meetups.Commands
 {
     public class RegisterMeetupCommand : BaseMeetupCommand
     {
         public RegisterMeetupCommand(
-                     Guid id,
                      string name,
                      string description,
                      DateTime dateStart,
@@ -15,7 +12,6 @@ namespace Domain.Models.Meetups.Commands
                      bool free,
                      decimal price)
         {
-            Id = id;
             Name = name;
             Description = description;
             DateStart = dateStart;
