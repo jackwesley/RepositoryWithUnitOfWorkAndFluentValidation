@@ -14,10 +14,6 @@ namespace Domain.Models.Meetups
                     DateTime dateEnd,
                     bool free,
                     decimal price,
-                    Category category,
-                    ICollection<Tags> tags,
-                    Adress adress,
-                    Organizer organizer,
                     string businessName)
         {
             Id = Guid.NewGuid();
@@ -27,10 +23,6 @@ namespace Domain.Models.Meetups
             DateEnd = dateEnd;
             Free = free;
             Price = price;
-            Category = category;
-            Tags = tags;
-            Adress = adress;
-            Organizer = organizer;
             BusinessName = businessName;
         }
 

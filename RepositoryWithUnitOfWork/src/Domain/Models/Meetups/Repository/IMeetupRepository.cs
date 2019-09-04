@@ -2,7 +2,7 @@
 
 namespace Domain.Models.Meetups.Repository
 {
-    interface IMeetupRepository : IRepository<Meetup>
+    public interface IMeetupRepository : IRepository<Meetup>
     {
     }
 }
